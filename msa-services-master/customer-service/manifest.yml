@@ -1,0 +1,10 @@
+applications:
+ - name: customer-service
+   host: customer-service-demo
+   path: target/customer-service-0.0.1-SNAPSHOT.jar
+   memory: 1G
+   env:
+    SPRING_PROFILES_ACTIVE: dev
+   services:
+    - config-server
+    - service-registry

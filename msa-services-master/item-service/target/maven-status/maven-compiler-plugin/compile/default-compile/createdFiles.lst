@@ -1,0 +1,5 @@
+com\salesorder\service\itemservice\repository\ItemRepository.class
+com\salesorder\service\itemservice\controller\ItemController.class
+com\salesorder\service\itemservice\entity\Item.class
+com\salesorder\service\itemservice\ItemServiceApplication.class
+com\salesorder\service\itemservice\configuration\ItemConfiguration.class

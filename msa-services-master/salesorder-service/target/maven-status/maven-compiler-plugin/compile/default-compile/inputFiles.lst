@@ -1,0 +1,10 @@
+F:\springboot_demo\msa-services-master\salesorder-service\src\main\java\com\salesorder\service\salesorderservice\repository\SalesOrderRespository.java
+F:\springboot_demo\msa-services-master\salesorder-service\src\main\java\com\salesorder\service\salesorderservice\configuration\SalesOrderConfiguration.java
+F:\springboot_demo\msa-services-master\salesorder-service\src\main\java\com\salesorder\service\salesorderservice\entity\Order.java
+F:\springboot_demo\msa-services-master\salesorder-service\src\main\java\com\salesorder\service\salesorderservice\repository\OrderItemRepository.java
+F:\springboot_demo\msa-services-master\salesorder-service\src\main\java\com\salesorder\service\salesorderservice\entity\OrderItem.java
+F:\springboot_demo\msa-services-master\salesorder-service\src\main\java\com\salesorder\service\salesorderservice\service\ItemService.java
+F:\springboot_demo\msa-services-master\salesorder-service\src\main\java\com\salesorder\service\salesorderservice\entity\SalesOrder.java
+F:\springboot_demo\msa-services-master\salesorder-service\src\main\java\com\salesorder\service\salesorderservice\SalesorderServiceApplication.java
+F:\springboot_demo\msa-services-master\salesorder-service\src\main\java\com\salesorder\service\salesorderservice\controller\SalesOrderController.java
+F:\springboot_demo\msa-services-master\salesorder-service\src\main\java\com\salesorder\service\salesorderservice\service\CustomerService.java

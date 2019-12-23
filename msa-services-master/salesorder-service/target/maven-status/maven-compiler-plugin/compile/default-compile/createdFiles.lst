@@ -1,0 +1,10 @@
+com\salesorder\service\salesorderservice\entity\SalesOrder.class
+com\salesorder\service\salesorderservice\repository\OrderItemRepository.class
+com\salesorder\service\salesorderservice\SalesorderServiceApplication.class
+com\salesorder\service\salesorderservice\entity\OrderItem.class
+com\salesorder\service\salesorderservice\repository\SalesOrderRespository.class
+com\salesorder\service\salesorderservice\service\CustomerService.class
+com\salesorder\service\salesorderservice\service\ItemService.class
+com\salesorder\service\salesorderservice\configuration\SalesOrderConfiguration.class
+com\salesorder\service\salesorderservice\entity\Order.class
+com\salesorder\service\salesorderservice\controller\SalesOrderController.class
